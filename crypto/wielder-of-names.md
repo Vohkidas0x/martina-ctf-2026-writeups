@@ -1,4 +1,3 @@
-[wielder-of-names.md](https://github.com/user-attachments/files/35244602/wielder-of-names.md)
 # Wielder of Names — Finding hidden names through NSEC3
 
 **Category:** Cryptography / DNS security · **Status:** Flag recovered from DNS TXT response  
