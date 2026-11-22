@@ -1,4 +1,3 @@
-[the-bouquet.md](https://github.com/user-attachments/files/35244718/the-bouquet.md)
 # The Bouquet — Recovering a hidden VeraCrypt volume
 
 **Category:** Forensics / cryptography · **Status:** Flag recovered from challenge volume  
