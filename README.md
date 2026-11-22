@@ -1,10 +1,12 @@
-# Mārtiņa-CTF 2026 | Security Research & Write-ups
+# Mārtiņa CTF 2026 | Cybersecurity Write-ups
 
-**Reverse engineering · Cryptography · Digital forensics · Blockchain security**
+Reverse Engineering · Cryptography · Blockchain · Digital Forensics
 
-During **Mārtiņa-CTF 2026**, I continued working independently after my teammates became inactive following the first day, earning **9,500+ points through solo effort** (event result reported by the participant).
+🏆 9,500+ Points Earned Independently
 
-This repository presents a **curated selection** of challenge write-ups and small, reproducible Python tools. It is not a claim that every challenge I investigated was solved. Each case study focuses on **the key observation, the method, the evidence, and the lesson** rather than a long terminal transcript.
+A collection of technical write-ups documenting my participation in Mārtiņa CTF 2026, featuring reverse engineering, smart contract exploitation, binary analysis, cryptographic attacks, digital forensics, and Python automation.
+
+This repository showcases my technical problem-solving process, reproducible solutions, and custom scripts developed during the competition.
 
 ## Selected technical write-ups
 
@@ -43,5 +45,3 @@ The scripts use offsets and structures from the original challenge versions. Rep
 - **The Ortni** has a code-derived candidate without a separately recorded accepted submission. It is marked accordingly.
 - **Investigations** and candidate coordinates are *not* represented as successful solves.
 - Individual point values were excluded because the uploaded drafts contain differing values and the event uses dynamic scoring. The **9,500+** event total is based on the participant's account rather than a preserved scoreboard screenshot.
-
-For publishing instructions see [PUBLISHING.md](PUBLISHING.md). This work documents authorized CTF targets only; no private keys, live access tokens, or original large challenge binaries are included.
